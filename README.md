@@ -33,7 +33,7 @@ For support, email fake@fake.com or join our Slack channel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/HamzaShakeel190/Whatsapp-UI_Flutter/blob/main/ScreenShots/CAT.JPG)
 
 
 ## License
